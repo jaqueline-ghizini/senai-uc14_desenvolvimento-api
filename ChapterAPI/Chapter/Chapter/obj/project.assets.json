@@ -2128,11 +2128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Jaqueline\\source\\repos\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+      "projectUniqueName": "D:\\Jaqueline\\_git\\senai-uc14_desenvolvimento-api\\ChapterAPI\\Chapter\\Chapter\\Chapter.csproj",
       "projectName": "Chapter",
-      "projectPath": "D:\\Jaqueline\\source\\repos\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+      "projectPath": "D:\\Jaqueline\\_git\\senai-uc14_desenvolvimento-api\\ChapterAPI\\Chapter\\Chapter\\Chapter.csproj",
       "packagesPath": "C:\\Users\\jaque_igq2cqf\\.nuget\\packages\\",
-      "outputPath": "D:\\Jaqueline\\source\\repos\\Chapter\\Chapter\\Chapter\\obj\\",
+      "outputPath": "D:\\Jaqueline\\_git\\senai-uc14_desenvolvimento-api\\ChapterAPI\\Chapter\\Chapter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaque_igq2cqf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2189,7 +2189,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

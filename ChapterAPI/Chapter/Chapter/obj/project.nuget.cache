@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ADAGSXEURXv2NH0JTVtVkyWrdVQyF1qdf5R/uGcH96BtPGIVjui5rmrC4TSN3REd0Q+qYV32pbSZhSV5bTW0RA==",
+  "dgSpecHash": "fyBQLNsj40Fh7cvdpCx5I0GkckYzgz+LhmUbb+5JNtDDou8vnB+EUcpn+YqdVBNBNBSACgFMJtc38RrTGbmHEw==",
   "success": true,
-  "projectFilePath": "D:\\Jaqueline\\source\\repos\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+  "projectFilePath": "D:\\Jaqueline\\_git\\senai-uc14_desenvolvimento-api\\ChapterAPI\\Chapter\\Chapter\\Chapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaque_igq2cqf\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jaque_igq2cqf\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
