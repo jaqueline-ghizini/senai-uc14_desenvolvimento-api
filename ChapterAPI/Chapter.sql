@@ -1,5 +1,3 @@
-//Crie essa base de dados no Microsoft SQL Server Management Studio:
-
 CREATE DATABASE Chapter;
 GO
 
@@ -36,5 +34,3 @@ GO
 
 SELECT * FROM Usuarios WHERE email = 'email@sp.br' AND senha = '1234'
 GO
-
-//Depois copie o nome do servidor para alterar o nome do arquivo ChapterContext.cs do projeto.
