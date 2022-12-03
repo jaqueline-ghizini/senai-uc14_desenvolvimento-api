@@ -118,3 +118,4 @@ D:\Jaqueline\_git\senai-uc14_desenvolvimento-api\ChapterAPI\Chapter\Chapter\obj\
 D:\Jaqueline\_git\senai-uc14_desenvolvimento-api\ChapterAPI\Chapter\Chapter\obj\Debug\net6.0\Chapter.csproj.CopyComplete
 D:\Jaqueline\_git\senai-uc14_desenvolvimento-api\ChapterAPI\Chapter\Chapter\obj\Debug\net6.0\Chapter.genruntimeconfig.cache
 D:\Jaqueline\_git\senai-uc14_desenvolvimento-api\ChapterAPI\Chapter\Chapter\obj\Debug\net6.0\ref\Chapter.dll
+D:\Jaqueline\_git\senai-uc14_desenvolvimento-api\ChapterAPI\Chapter\Chapter\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
