@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Chapter",
+    "\\Chapter\\bin",
+    "\\Chapter\\Controllers",
+    "\\Chapter\\Models",
+    "\\Chapter\\Repositories"
+  ],
+  "SelectedNode": "\\Chapter\\Models\\Livro.cs",
+  "PreviewInSolutionExplorer": false
+}
